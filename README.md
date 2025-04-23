@@ -1,2 +1,12 @@
 # IoT-Advanced-Level-Project-2024-25-Even-Sem
-This IoT project utilizes a NodeMCU ESP8266 microcontroller and the Blynk app to create a comprehensive home automation system. It integrates sensors such as DHT11 for temperature and humidity, MQ2 for gas detection, an ultrasonic sensor for water level measurement, a PIR sensor for motion detection, and a flame sensor for fire alerts. 
+
+🏠 Full Home Automation System using NodeMCU (ESP8266) & Blynk
+This project demonstrates a complete IoT-based home automation system using the NodeMCU ESP8266 and the Blynk mobile app. Control up to four home appliances remotely over Wi-Fi using your smartphone. The setup includes relay modules, real-time device control, and can be easily customized for additional features.
+
+🔧 Features
+Wi-Fi based remote control using Blynk
+
+Real-time status monitoring
+
+Simple and scalable hardware setup
+
