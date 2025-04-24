@@ -1,19 +1,3 @@
-# IoT-Advanced-Level-Project-2024-25-Even-Sem
-
-🏠 Full Home Automation System using NodeMCU (ESP8266) & Blynk
-This project demonstrates a complete IoT-based home automation system using the NodeMCU ESP8266 and the Blynk mobile app. Control up to four home appliances remotely over Wi-Fi using your smartphone. The setup includes relay modules, real-time device control, and can be easily customized for additional features.
-
-🔧 Features
-Wi-Fi based remote control using Blynk
-
-Real-time status monitoring
-
-Simple and scalable hardware setup
-
-
-
-
-
 
 
 #  Home Automation System using NodeMCU (ESP8266) & Blynk
@@ -35,24 +19,26 @@ Please follow the below steps to run this project.
 2. Step 2: Secondly, connect these components. To do this, use the circuit diagram below.
    ![WhatsApp Image 2025-04-17 at 20 21 14_0c064c3c](https://github.com/user-attachments/assets/ac175370-06e0-4c17-91b2-47f6f04fbd42)
 
-4. Step 3 here
-3. and so on...
+3. Step 3 : let’s set up the Blynk app. 
+4. step 4 :Now let’s create the program for this system. 
+   
 
 ### Subject Details
 - Class : TE (COMP) Div A - 2024-2025
 - Subject : Mini Project : 2A (MP2A(P)(2019))
 - Project Type : Mini Project
+- 
 
 ### Platform, Libraries and Frameworks used
-1. [NodeJS](https://nodejs.org)
-2. [ExpressJS](https://expressjs.org)
-3. [TensorFlow](https://tensorflowjs.com)
-
-### Dataset Used
-1. [Kaggle Dataset 1](https://kaggle.com/dataset1)
-2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
+1. [Arduino IDE](https://www.arduino.cc/en/software/)
+2. [Blynk App](https://blynk.io/)
+3. Libraries:
+    WI-Fi library :- [Download](https://drive.google.com/file/d/1b-tHjcqBHVCgQKabdR19iGmo4E-pa2mW/view)
+    Blynk library :- [Download](https://drive.google.com/file/d/1dbCZECyzjI7zxE_Q136jA9--dHELAGNt/view)
+    DHT11 library :-  [Download](https://drive.google.com/file/d/1WfPyrxBRIHBOUJDkxwLOpTCDyQJqNPPN/view)
+   
 
 ### References
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+- [Wiring and demonstration](https://www.youtube.com/watch?v=bNB-XDBZT8I)
+- [Setup and programming](https://srituhobby.com/how-to-make-a-full-home-automation-system-with-nodemcu-esp8266-and-blynk-app/#google_vignette)
 
